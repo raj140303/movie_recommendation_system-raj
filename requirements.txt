@@ -180,5 +180,5 @@ win32_setctime==1.2.0
 wrapt==1.17.0
 xgboost==2.1.2
 zipp==3.21.0
-streamlit 
-requests 
+streamlit==1.30.0
+requests==2.31.0
